@@ -1,0 +1,11 @@
+.DS_Store
+node_modules
+public
+coverage
+.env
+output/
+*.iml
+.vscode
+.vscode-server
+dump.rdb
+yarn-error.log
